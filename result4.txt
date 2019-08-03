@@ -1,0 +1,2085 @@
+Parsing File 1 of 10
+Parsing File 2 of 10
+Parsing File 3 of 10
+Parsing File 4 of 10
+Parsing File 5 of 10
+Parsing File 6 of 10
+Parsing File 7 of 10
+Parsing File 8 of 10
+Parsing File 9 of 10
+Parsing File 10 of 10
+University of Toronto
+
+2018 OUA Fairweather Division Chan
+
+ 
+
+ 
+
+ 
+
+ 
+
+QUA Fairweather Divi:
+Psyc
+Event 1 Women 200 SC Meter Freestyle Relay
+26.51 * Usport 2018-2019
+Team Relay Seed Time
+1 UT A 1:42.60
+2 Mustangs A 1:43.96
+3 MACU A 1:44.36
+4 UT B 1:45.85
+5 Warriors A 1:48.76
+6 Warriors B 1:56.04
+7  MACU B NT
+8 Mustangs B NT
+Event 2 Men 200 SC Meter Freestyle Relay
+23.19 * Usport 2018-2019
+Team Relay Seed Time
+1 UT A 1:32.35
+2 Mustangs A 1:32.44
+3 MACU A 1:35.20
+4 Warriors A 1:35.77
+5 UT B 1:36.11
+6 Warriors B 1:40.04
+7  MACU B NT
+8 Mustangs B NT
+Event 3 Women 400 SC Meter IM
+4:58.24 * Usport 2018-2019
+Name Yr School Seed Time
+1 DeCarlo, Courtney 4 WES 4:56.47
+2 Cairns, Stephanie 2 WES 4:57.86
+3 Cheng, Jess 2 UT 4:58.10
+4 Rendall, Kate 1 UT 4:59.98
+5  Bumbulis, Laura 2 WAT 5:05.18
+6 Goodman, Audrey 1 UT 5:09.17
+7 Eley, CailynA 2 MACU 5:12.34
+8 Ma, Emily Y 3 MACU 5:15.72
+9 Lavergne, Paige 2 WAT 5:15.77
+10 Nowicki, Nicole 3 WAT 5:18.73
+11 Alameddine, Yasmine 1 MACU 5:20.11
+12 Kucheran, Emmy 3 WAT 5:27.87
+13 Langham, Menley 2 WES 5:29.40
+Event 4 Men 400 SC Meter IM
+4:26.72 * Usport 2018-2019
+Name Yr School Seed Time
+1. Morley, Will 3 UT 4:28.56
+2 Sosa Miranda, Cesar A 2 MACU 4:35.93
+3 Gillespie-Friesen, Noah 2 WAT 4:36.27
+4 Tchervenelekov, Mony 3 MACU 4:41.88
+5 Rogozynski, Noah 1 WAT 4:46.36
+6 Smith, Everett 1 UT 4:47.22
+7 Ryu, Hohyun 2 WAT 4:48.34
+8  Joudrie, Nolan WES. 4:50.40
+
+speedo
+
+-_”HY-TEK's MEET MANAGER 7.0 - 11:51 AM 20/11/2018 Page 1
+apionships - 23/11/2018 to 24/11/2018
+sion Championships 2018
+
+th Sheet
+9 Papadedes, Dimitri W 2 MACU 4:56.48
+10 Hao, Max 2 WAT 4:58.74
+11 Kelly, Sean 1 WAT 5:05.73
+
+Event 5 Women 50 SC Meter Backstroke
+29.57 * Usport 2018-2019
+
+ 
+
+Name Yr School Seed Time
+1 Masse, Kylie 5 UT 26.15
+2 Rode, Rachel 3 UT 27.16
+3 Allen, Jessica 2 WES 28.23
+4 Du Plessis, Sophie 3 UT 28.50
+5 Ladyman, Eloise 2 WAT 28.52
+6 Huddle, Charis 5 WES 28.84
+7 Dvorski, Hannah E 5 MACU 29.06
+8 Nichol, Veronica 2 MACU 29.10 _
+9 Chou, Lou Salome 3 WAT 29.76
+10 Wong, Samantha 3 WES 29.83
+11 Neilson, Nicole 2 WES 30.53
+12  Meklensek, Lexi 4 WES 30.67
+13 Zila, Lea 3 UT 30.96
+14 Crocker, Kelsey 4 UT 31.04
+15 MacKinnon, Morley 2 WAT 31.10
+16 Ji, Christina 1 WAT 31.28 _
+17 Hermanson, Hannah 1 UT 31.28
+18 Peros, Sarah 2 WAT 3134
+19 Ryan, Brigitte 2 WES 31.82
+20 Lindsay, Cassis 1 MACU 32.01
+21 Wong, Ellie 2 WAT 32.63
+22 Grace, Lianna WES 32.90
+23 Chong, Cassandra 1 WAT 33.50
+24 Sherwin S8sb8sm8, Megan 1 WAT 48.82
+
+Event 6 Men 50 SC Meter Backstroke
+26.01 * Usport 2018-2019
+
+ 
+
+Name Yr School Seed Time
+1 Ruus, Chris 2 UT 2648
+2 Klahsen, Matthew 2 WES 26.61
+3. Dans, Matt 5 UT 26.72
+4 Ouyang, Leon 3 WAT 26.93
+5 Potma, James R 2 MACU 2710
+6 Wormald, Lukas 1 WAT 2766
+7 Van Wyk, Brandon 5 WAT X27.67
+8 Drabik, Cyrus M 2 MACU 28.01
+9 Lin, Johnnie 1 UT 28.09
+10 Towne, Garrett 1 UT 28.22
+11. Levytskyy, Maksym 1 WAT 2840
+12 Li, Michael 2 WAT 28.91
+13  McCuaigS9sb9sm9,Cameron 1 WAT 32.77University of Toronto
+
+2018 OUA Fairweather Division Chan
+
+ 
+
+ 
+
+OUA Fairweather Divi:
+Psyc
+Event 7 Women 200 SC Meter Freestyle
+2:03.86 * Usport 2018-2019
+Name Yr School Seed Time
+1 McMurray, Ainsley 1 UT 1:59.34
+2 Polley, Sarah 3 UT 1:59.35
+3 Kidd, Georgia 3 UT 2:00.49
+4 Lei, Isabelle W 2 MACU 2:00.60
+5 Gold, Aleksa 1 UT 2:01.25
+6 Howard, Claire 1 UT 2:03.90
+7 Brazeau, Keira 4 WES 2:03.91
+8  vanLeeuwen, Jocelyn 3 WAT 2:03.96 _
+9 Radounski, Victoria 5 UT 2:04.02
+10 Saroukian, Sophia 3 UT 2:04.04
+11. Barrette, Josee 4 UT 2:04.05
+12. Sawchuk, Rachel 3 WES 2:06.39
+13 Russell, Emily 5 UT 2:09.78
+14 = Mariano, Jacquelyne 1 WAT 2:10.87
+15 Schlyter, Emma 2 MACU 2:14.35
+16 Bolger, Elise 1 MACU 2:14.44
+17 Stokes, Jenna WES 2:19.30
+18 Webster, Kat F 3 MACU X2:20.11
+19 _ Ivancic, Katie 1 WAT X2:20.42
+20 Fehr, Cydney 2 MACU X2:22.02
+21 Zuraw, Aurora R 3 MACU X2:23.19
+22 Michael, Alexi 3 MACU X2:23.66
+Event 8 Men 200 SC Meter Freestyle
+1:50.61 * Usport 2018-2019
+Name Yr School Seed Time
+1 Chaubet, Gaél 4 UT 1:49.68
+2 Nitski, Osvald 4 UT 1:50.79
+3 Muizelaar, Mitch A 4 MACU 1:51.44
+4 Meier, Simon 3 UT 1:51.80
+5 Paulins, Sebastian 3 WES 1:51.99
+6 Mac, Matthew 3 UT 1:52.40
+7 Ferraro, Mitch 5 UT 1:53.82
+8 Bird, Josh 1 WAT 1:54.41
+9 Jrab, Mohamad 2 MACU 1:55.54
+10 Fazekas, Ethan 1 UT 1:55.60
+11. = Alsan, Kaan 3 WAT 1:55.63
+12 Goodman, Graeme 2 UT 1:55.69
+13 Papangelakis, Panos 3 MACU 1:55.79
+14 Walker, Connor 1 UT 1:55.85
+15 Li, Michael 2 WAT 1:56.12
+16 Aylward, Graeme 1 UT 1:56.97
+17 Bagnell, Kevin 1 MACU 1:57.77
+18  Blomme, Adam R 2 MACU 1:58.78
+19  Corazza, Luca 1 UT 1:59.04
+20 Sharland, Louis M 3 MACU 2:00.00
+21 Baghdassarian, Kevork 1 MACU 2:00.00
+22 Rogozynski, Noah 1 WAT 2:00.57
+
+speedo
+
+-_”HY-TEK's MEET MANAGER 7.0 - 11:51 AM 20/11/2018 Page 2
+apionships - 23/11/2018 to 24/11/2018
+sion Championships 2018
+
+ 
+
+ 
+
+th Sheet
+23 Kelly, Sean 1 WAT 2:00.91
+24  Cappa, Dominic 2 WES 2:01.92
+25  Woolven, Eric 5 WAT X2:03.21
+26 = Miller-Junk, Devon 1 WAT X2:04.50
+27 Soliman, Peter 1 MACU 2:17.78
+Event 9 Women 100 SC Meter Butterfly
+1:02.59 * Usport 2018-2019
+Name Yr School Seed Time
+1. Genich, Hannah 3 UT 5847
+2 Smith, Rebecca 1 UT 58.68
+3 Kidd, Georgia 3 UT 1:01.39
+4 Eley, Cailyn A 2 MACU 1:02.69 __
+5 Andres, Josie 5 WAT 1:02.89
+6 Yu, Jess 3 UT 1:02.90
+7 Cairns, Katelyn 2 WES 1:03.36
+8 Little, Sarah R 2 MACU 1:03.87
+9 Burwell, Kaitlyn 1 UT 1:03.89
+10 Sbaraglia, Olivia 3 UT 1:04.05
+11 Romkes, Megan 2 MACU 1:04.39
+12 Hodge, Sarah 3 UT 1:04.84
+13 Flanagan, Jordyn 2 WES 1:04.96
+14 Lundenberg, Lucie R 2 MACU 1:05.52
+15  Alameddine, Yasmine 1 MACU 1:05.55
+16 Steiner, Giselle 1 UT 1:05.83
+17 Li, Rebecca S 2 MACU 1:05.87
+18 Burwell, Taylor 1 UT 1:05.90
+19 Liu, Alyna WES 1:07.19
+20 Wong, Samantha 3 WES 1:07.25
+21 ‘Toy, Katherine 1 MACU 1:07.33
+22 Kruger, Kellita WES 1:07.40
+23 Zhou, Chelsea 1 MACU 1:07.44
+24 Lamb, Taylor WES 1:08.40
+25 Horton, Erin WES 1:08.60
+26 Fedder, Sarah WES 1:08.60
+27 — Jickling, Shannon WES 1:09.50
+28 Ma, Emily Y 3 MACU 11112
+29 Shoemaker, Madelaine WES 1:1148
+30 Chong, Cassandra 1 WAT 1:13.18
+31 Zhang, Stephanie 1 WAT 1:13.38
+32  Qin-Wang, Kelly 3 MACU X1:14.08
+33 Sherwin S8sb8sm8, Megan 1 WAT 1:36.11
+34 Kucheran, Emmy 3 WAT NT
+Event 10 Men 100 SC Meter Butterfly
+55.37 * Usport 2018-2019
+Name Yr School Seed Time
+1 Dans, Matt 5 UT 52.90
+2 Nitski, Osvald 4 UT 5348
+3 Chow, Aidan 3 WAT 56.01
+4 Schrader, Bjoern-Ole 2 UT 56.33
+5 Chappell, Elias 2 WES 56.67
+
+ 
+
+ 
+
+ 
+
+ 
+
+£
+
+ryUniversity of Toronto
+
+2018 OUA Fairweather Division Chan
+
+ 
+
+ 
+
+ 
+
+OUA Fairweather Divi:
+Psyc
+Event 10 ...(Men 100 SC Meter Butterfly)
+Name Yr School Seed Time
+6 Brodie, Jonathan 4 WES 56.77
+7 Ryu, Hohyun 2 WAT 56.84
+8 Potma, James R 2 MACU 57.29
+9 Sosa Miranda, Cesar A 2 MACU 57.70
+10 Alsan, Kaan 3 WAT 58.02
+11 Wormald, Lukas 1 WAT 58.64
+12 Levytskyy, Maksym 1 WAT 58.70
+13 Lin, Johnnie 1 UT 58.72
+14 ‘Potvin, Benoit 2 WES 59.46
+15 Baghdassarian, Kevork 1 MACU 5987
+16 Chambers, Ian 1 WAT 59.96
+17 Chu, Danyon 5S WAT 1:00.62
+18 Papadedes, Dimitri W 2 MACU 1:01.00
+19 *Daniel, Jyasi 1 WAT 1:01.30
+20 = Curry, Tristan 2 WAT 1:01.68
+21 Rozo, Rafael J 3 MACU 1:01.69
+22 ~~ Licari, Justin MACU 1:02.22
+23 Robinson, Tanner W 4 MACU NT
+Event 11 Women 100 SC Meter Breaststroke
+1:11.99 *Usport 2018-2019
+Name Yr School Seed Time
+1 Ji, Christina 1 WAT 1:10.65
+2 Crocker, Kelsey 4 UT 1:10.68
+3 Zila, Lea 3 UT 1:11.60
+4 Wicks, Victoria 4 UT 1:12.17
+5 Goodman, Audrey 1 UT 1:13.07
+6 Nowicki, Nicole 3 WAT 1:13.43
+7  Bumbulis, Laura 2 WAT 1:13.75
+8 Cheng, Michelle 3 WAT 1:14.11
+9 Demirov, Nicole 4 UT 1:14.20
+10 Mckinley, Aivrey M 2 MACU 1:14.43
+11 Ryan, Brigitte 2 WES 1:14.92
+12 Chen, Joan-Shiao 2 WES 1:15.67
+13 MacAskill, Katie A 3 MACU 1:15.70
+14 _ Belsh, Gabriella 3 WES 1:15.87
+15 Fazeli, Hiva 1 MACU 1:17.77
+16  Cheveldayoff, Paige 1 MACU 1:18.23
+17 Kvedaras, Anna 1 MACU 1:19.99
+18 Taller, Claire 3 WAT 1:20.56
+19 Grace, Lianna WES 1:21.13
+20 Langham, Menley 2 WES 1:23.13
+Event 12 Men 100 SC Meter Breaststroke
+1:03.05 *Usport 2018-2019
+Name Yr School Seed Time
+1 Loewen, Matthew 4 WES 59.75
+2 Meier, Simon 3 UT 1:02.82
+3 Gu, Jake 1 WAT 1:02.98
+4 Aylward, Graeme 1 UT 1:03.65
+
+speedo
+
+=”HY-TEK's MEET MANAGER 7.0 - 11:51 AM 20/11/2018 Page 3
+apionships - 23/11/2018 to 24/11/2018
+sion Championships 2018
+
+th Sheet
+
+5 Rosedale, Benjamin 2 WES 1:04.51
+
+6 Chambers, Jan 1 WAT 1:04.63
+
+7 Encinar, Alexander 2 WES 1:04.75
+
+8 Tchervenelekov, Mony 3 MACU 1:05.03
+
+9 McDermott, Tyler 4 UT 1:05.45
+10 Curry, Tristan 2 WAT 1:05.70
+11 Sanchez, H. Andre 2 WES 1:06.43
+12 Moir, Ryan 2 WES 1:06.57
+13. Hao, Max 2 WAT 1:06.97
+14 Cvitkovic, Evan 4 MACU 1:07.14
+15. Sisouphanh, Danai 5 WES 1:07.77
+16 Zhang, Anthony 1 WAT X1:08.41
+17 Joudrie, Aidan 4 WES 1:08.64
+18 Drasovean, Christian WES 1:09.60
+19 Joudrie, Nolan WES. 1:11.68
+20 = Miller-Junk, Devon 1 WAT X1:13.39
+
+Event 13 Women 200 SC Meter Backstroke
+2:18.32 *Usport 2018-2019
+
+ 
+
+Name Yr School Seed Time
+1 Polley, Sarah 3 UT 2:10.47
+2 Gold, Aleksa 1 UT 2:11.00
+3 Genich, Hannah 3 UT 2:11.04
+4 Ladyman, Eloise 2 WAT 2:13.04
+5 Dvorski, Hannah E 5 MACU 2:15.43
+6 Du Plessis, Sophie 3 UT 2:15.50
+7 Neilson, Nicole 2 WES 2:18.59
+8 Kruger, Kellita WES 2:23.40
+9 Hermanson, Hannah 1 UT 2:24.93
+10 ~=MacKinnon, Morley 2 WAT 2:26.04
+11 Shoemaker, Madelaine WES 2:28.50
+12 -Peros, Sarah 2 WAT 2:28.55
+13. Romkes, Megan 2 MACU 2:30.21
+14 Lee, Kaitlyn D 2 MACU X2:32.37
+15 Chou, Lou Salome 3 WAT 2:32.72
+
+Event 14 Men 200 SC Meter Backstroke
+2:02.42 *Usport 2018-2019
+
+ 
+
+Name Yr School Seed Time
+
+1 Mac, Matthew 3 UT 1:58.18
+2 Klahsen, Matthew 2 WES 2:01.25
+3 Wormald, Lukas 1 WAT 2:02.53
+4 Towne, Garrett 1 UT 2:05.27
+5 Levytskyy, Maksym 1 WAT 2:06.05
+6 Goodman, Graeme 2 UT 2:06.46
+7 Gillespie-Friesen, Noah 2 WAT 2:06.74
+8 Smith, Everett 1 UT 2:07.25
+9 Ruus, Chris 2 UT 2:08.87
+10 Robinson, Tanner W 4 MACU 2:09.49
+11 Li, Michael 2 WAT 2:10.96
+12  McCuaig S9sb9sm9, Cameron 1 WAT 2:33.30
+
+ 
+
+ 
+
+ 
+
+ 
+
+£
+
+CyUniversity of Toronto
+
+2018 OUA Fairweather Division Chan
+
+ 
+
+OUA Fairweather Divi:
+Psyc
+Event 15 Women 50 SC Meter Freestyle
+26.51 *Usport 2018-2019
+Name Yr School Seed Time
+1 Masse, Kylie 5 UT 24.77
+2 Smith, Rebecca 1 UT 24.80
+3 Huddle, Charis 5 WES 24.91
+4 McMurray, Ainsley 1 UT 25.38
+5 Rode, Rachel 3 UT 25.46
+6 Andres, Josie 5 WAT 25.74
+7 Russell, Emily 5 UT 25.82
+8 Lei, Isabelle W 2 MACU 25.98
+9 Mariano, Jacquelyne 1 WAT 26.28
+10 — Sbaraglia, Olivia 3 UT 26.29
+11 Kranje, Katarina 2 WES 2644
+12. Sawchuk, Rachel 3 WES 2657
+13 Chen, Joan-Shiao 2 WES 26.69
+14 Little, Sarah R 2 MACU 2683
+15 Schlyter, Emma 2 MACU 26.88
+16 Hodge, Sarah 3 UT 2689
+17 Nichol, Veronica 2 MACU 2711
+18 Fazeli, Hiva 1 MACU 27.12
+19 Barrette, Josee 4 UT 2716
+20 Meklensek, Lexi 4 WES 27.30
+21 Tedesco, Diana 2 UT 27.31
+22. Kvedaras, Anna 1 MACU 27.33
+23 Dvorski, Hannah E 5 MACU 2740
+24 ~Brazeau, Keira 4 WES 2742
+25 Lindsay, Cassis 1 MACU 2745
+26 Yu, Jess 3 UT 27.54
+27 Howard, Claire 1 UT 27.64
+28 Wicks, Victoria 4 UT 27.66
+29 — Steiner, Giselle 1 UT 2782
+30 Roberts, Samantha WES 28.00
+31 Burwell, Kaitlyn 1 UT 28.04
+32 Flanagan, Jordyn 2 WES 28.08
+33 Allen, Jessica 2 WES 28.30
+34 — Jickling, Shannon WES 28.30
+35 Wong, Ellie 2 WAT 2837
+36 Fedder, Sarah WES 2842
+37 Peros, Sarah 2 WAT 28.44
+38 Chou, Lou Salome 3 WAT 28.59
+39 Burwell, Taylor 1 UT 28.59
+40 Code, Jessica WES 28.63
+41 Lamb, Taylor WES 28.74
+42 Li, RebeccaS 2 MACU 28.85
+43 Mckinley, Aivrey M 2 MACU 28.88
+44 Qin-Wang, Kelly 3 MACU X28.96
+45 Zhou, Chelsea 1 MACU 29.03 _
+46 Dobos, Natasha 3 WAT 2911
+47 Zuraw, Aurora R 3 MACU X29.28
+48 Cheng, Michelle 3 WAT 29.34
+
+speedo
+
+-_”HY-TEK's MEET MANAGER 7.0 - 11:51 AM 20/11/2018 Page 4
+apionships - 23/11/2018 to 24/11/2018
+sion Championships 2018
+
+th Sheet
+49 Toy, Katherine 1 MACU 29.41
+50 = Michael, Alexi 3 MACU X29.57
+51 ‘Taller, Claire 3 WAT 29.82
+52 Chong, Cassandra 1 WAT 29.82
+53 Ivancic, Katie 1 WAT X29.86
+54 Horton, Erin WES 30.53
+55 Fehr, Cydney 2 MACU X30.79
+56 Leung, Megan 1 WAT X30.85
+57 Sherwin S8sb8sm8, Megan 1 WAT 39.73
+
+Event 16 Men 50 SC Meter Freestyle
+23.19 * Usport 2018-2019
+
+ 
+
+Name Yr School Seed Time
+
+1 Ferraro, Mitch 5 UT 22.54
+2 Dans, Matt 5 UT 23.13
+3 Waddell, Brent 5 WES 23.23
+4 Fazekas, Ethan 1 UT 23.29
+5 Chaubet, Gaél 4 UT 23.39
+6 Lojko, Alex 3 WAT 23.45
+7 Chu, Danyon 5 WAT 23.58
+8 Loewen, Matthew 4 WES 23.88
+9 Sharland, Louis M 3 MACU 23.89
+10 Schrader, Bjoern-Ole 2 UT 23.90
+11. Drabik, Cyrus M 2 MACU 24.05
+12 Chappell, Elias 2 WES 24.09
+13. Potma, James R 2 MACU 24.21
+14 Chow, Aidan 3 WAT 24.23
+15 Rosedale, Benjamin 2 WES 24.37
+16 = Curry, Tristan 2 WAT 24.48
+17 ‘Ouyang, Leon 3 WAT 24.51
+18  Cappa, Dominic 2 WES 24.96
+19 Potvin, Benoit 2 WES 25.14
+20 Oliver, Nicholas 3 WES 25.24
+21 Drasovean, Christian WES 25.70
+22 Rozo, Rafael J 3 MACU 25.72
+23 Sisouphanh, Danai 5 WES 26.06
+24 ~~ Bagnell, Kevin 1 MACU 26.12
+25 Woolven, Eric 5 WAT X26.17
+26 *Daniel, Jyasi 1 WAT 26.23
+27 Gu, Jake 1 WAT 26.95
+28 Zhang, Anthony 1 WAT X26.97
+29 Soliman, Peter 1 MACU 27.50
+30 — Licari, Justin MACU 28.05
+31 Van Wyk, Brandon 5 WAT X29,32
+32 McCuaig S9sb9sm9, Cameron 1 WAT 30.62
+
+Event 17 Women 800 SC Meter Freestyle
+9:02.03 * Usport 2018-2019
+
+ 
+
+Name Yr School Seed Time
+1 Saroukian, Sophia 3 UT 8:47.55
+2 Cheng, Jess 2 UT 8:55.67
+3 Radounski, Victoria 5 UT 8:56.36
+
+ 
+
+ 
+
+ 
+
+ 
+
+£
+
+CyUniversity of Toronto
+
+2018 OUA Fairweather Division Chan
+
+ 
+
+ 
+
+ 
+
+ 
+
+OUA Fairweather Divi:
+Psyc
+Event 17 ...(Women 800 SC Meter Freestyle)
+Name Yr School Seed Time
+4 Rendall, Kate 1 UT 9:01.53
+5 Cairns, Stephanie 2 WES 9:06.27
+6 Cairns, Katelyn 2 WES 9:07.53
+7 vanLeeuwen, Jocelyn 3 WAT 9:23.41
+8 Bolger, Elise 1 MACU 9:26.39
+9 Stokes, Jenna WES 9:34.50
+10 ~Lundenberg, Lucie R 2 MACU 9:36.51
+11 Schlyter, Emma 2 MACU 9:36.66
+12 MacAskill, Katie A 3 MACU 9:47.81
+13 Cheveldayoff, Paige 1 MACU 9:51.11
+14 Webster, Kat F 3 MACU X10:52.72
+15 Lavergne, Paige 2 WAT NT
+16 Zhang, Stephanie 1 WAT NT
+Event 18 Men 1500 SC Meter Freestyle
+15:54.21 *Usport 2018-2019
+Name Yr School Seed Time
+1 = Muizelaar, Mitch A 4 MACU 15:21.93
+2 Paulins, Sebastian 3 WES 15:45.13
+3 Walker, Connor 1 UT 15:49.01
+4  Jrab, Mohamad 2 MACU 16:11.94
+5 Bird, Josh 1 WAT 16:14.74
+6 Morley, Will 3 UT 16:15.01
+7 Vallee, Andrew 4 WES 16:19.38
+8 Corazza, Luca 1 UT 16:20.99
+9 Gillespie-Friesen, Noah 2 WAT 16:32.63
+10 Blomme, Adam R 2 MACU 16:48.28
+11 Papangelakis, Panos 3 MACU 17:02.18
+12 Kelly, Sean 1 WAT 17:05.92
+13 Rogozynski, Noah 1 WAT 17:44.99
+Event 19 Women 200 SC Meter Medley Relay
+29.57 *Usport 2018-2019
+Team Relay Seed Time
+1 UT A 1:51.87
+2 MACU A 1:55.15
+3 Mustangs A 1:55.62
+4 UT B 1:55.89
+5 Warriors A 1:57.71
+6 Warriors B 2:02.80
+7  MACU B NT
+8 Mustangs B NT
+Event 20 Men 200 SC Meter Medley Relay
+26.01 * Usport 2018-2019
+Team Relay Seed Time
+1 UT A 1:41.34
+2 Mustangs A 1:41.38
+3 MACU A 1:46.16
+4 UT B 1:46.20
+
+speedo
+
+-_”HY-TEK's MEET MANAGER 7.0 - 11:51 AM 20/11/2018 Page 5
+apionships - 23/11/2018 to 24/11/2018
+sion Championships 2018
+
+ 
+
+ 
+
+th Sheet
+
+5 Warriors A 1:46.53
+6 Warriors B 1:48.11
+7 MACU B NT
+8 Mustangs B NT
+
+Event 21 Women 200 SC Meter IM
+
+2:20.27 * Usport 2018-2019
+Name Yr School Seed Time
+
+1 Kidd, Georgia 3 UT 2:16.07 _
+2 DeCarlo, Courtney 4 WES 2:20.65
+3 Ladyman, Eloise 2 WAT 2:22.21
+4 Saroukian, Sophia 3 UT 2:23.01
+5 Cairns, Stephanie 2 WES 2:23.97
+6 Belsh, Gabriella 3 WES 2:24.16
+7 Lei, Isabelle W 2 MACU 2:24.37
+8  Bumbulis, Laura 2 WAT 2:25.24
+9 Ji, Christina 1 WAT 2:25.91
+10 Cheng, Jess 2 UT 2:25.99
+11. Ma, Emily Y 3 MACU 2:27.11
+12 Nowicki, Nicole 3 WAT 2:27.63
+13. Goodman, Audrey 1 UT 2:27.65
+14 Lavergne, Paige 2 WAT 2:28.92
+15 Alameddine, Yasmine 1 MACU 2:31.11
+16 Eley, Cailyn A 2 MACU 2:32.80
+17 Schlyter, Emma 2 MACU 2:33.33
+18 Neilson, Nicole 2 WES 2:33.50
+19  Kucheran, Emmy 3 WAT 2:34.80
+20 Langham, Menley 2 WES 2:38.40
+
+Event 22 Men 200 SC Meter IM
+
+2:04.49 * Usport 2018-2019
+Name Yr School Seed Time
+
+1 Wormald, Lukas 1 WAT 2:04.21
+2 Morley, Will 3 UT 2:04.23
+3 Ryu, Hohyun 2 WAT 2:06.10
+4 Smith, Everett 1 UT 2:07.06
+5 Aylward, Graeme 1 UT 2:09.32
+6 Sosa Miranda, Cesar A 2 MACU 2:09.40
+7 Gillespie-Friesen, Noah 2 WAT 2:10.02
+8 Chambers, Ian 1 WAT 2:10.15
+9 Vallee, Andrew 4 WES 2:12.96
+10 Rogozynski, Noah 1 WAT 2:13.67
+11 Robinson, Tanner W 4 MACU 2:14.57
+12. Tchervenelekov, Mony 3 MACU 2:16.01
+13. Papadedes, Dimitri W 2 MACU 2:17.89
+14 Joudrie, Nolan WES 2:20.40
+15 Miller-Junk, Devon 1 WAT X2:21.63
+16 Kelly, Sean 1 WAT 2:22.65University of Toronto
+
+2018 OUA Fairweather Division Chan
+
+ 
+
+OUA Fairweather Divi:
+Psyc
+Event 23 Women 100 SC Meter Freestyle
+57.19 *Usport 2018-2019
+Name Yr School Seed Time
+1 Huddle, Charis 5S WES 54.50
+2 McMurray, Ainsley 1 UT 55.09
+3 Lei, Isabelle W 2 MACU 55.13
+4 Polley, Sarah 3 UT 55.70
+5 Rode, Rachel 3 UT 55.83
+6 Gold, Aleksa 1 UT 55.87
+7 Radounski, Victoria 5 UT 56.79
+8  vanLeeuwen, Jocelyn 3 WAT 56.87
+9 Brazeau, Keira 4 WES 57.19
+10 — Sbaraglia, Olivia 3 UT 57.20
+11 Howard, Claire 1 UT 57.28
+12 Russell, Emily 5 UT 57.30
+13 Sawchuk, Rachel 3 WES 57.54
+14 Andres, Josie 5 WAT 57.58
+15 Nichol, Veronica 2 MACU 57.84
+16 Hodge, Sarah 3 UT 57.91
+17 Kranje, Katarina 2 WES 57.93
+18 Little, Sarah R 2 MACU 58.04
+19 Chen, Joan-Shiao 2 WES 5818
+20 Mariano, Jacquelyne 1 WAT 58.29
+21 Barrette, Josee 4 UT 5845
+22 Meklensek, Lexi 4 WES 58.69
+23 Lamb, Taylor WES 59.00
+24 — Saroukian, Sophia 3 UT 59.55
+25 Code, Jessica WES 59.60
+26 Fedder, Sarah WES 59.60
+27 Tedesco, Diana 2 UT 59.98
+28  Dvorski, Hannah E 5 MACU 59.99
+29 Lindsay, Cassis 1 MACU 59.99
+30 Horton, Erin WES 1:00.20
+31 Kruger, Kellita WES 1:00.20
+32 Toy, Katherine 1 MACU 1:00.77
+33 Hermanson, Hannah 1 UT 1:01.01
+34 Zhou, Chelsea 1 MACU 1:01.11
+35 Jickling, Shannon WES 1:01.20
+36 Fazeli, Hiva 1 MACU 1:01.22
+37 Fehr, Cydney 2 MACU X1:01.44
+38 Roberts, Samantha WES 1:01.60 _
+39 Bolger, Elise 1 MACU 1:02.33
+40 Peros, Sarah 2 WAT 1:02.96
+41 — Stokes, Jenna WES 1:03.20
+42 MacKinnon, Morley 2 WAT 1:03.42
+43  Zuraw, Aurora R 3 MACU X1:03.65
+44 Dobos, Natasha 3 WAT 1:03.69
+45 Lee, Kaitlyn D 2 MACU X1:04.40
+46 Michael, Alexi 3 MACU X1:04.88
+47 Wong, Ellie 2 WAT 1:04.99
+48 Chou, Lou Salome 3 WAT 1:05.12
+
+speedo
+
+-_”HY-TEK's MEET MANAGER 7.0 - 11:51 AM 20/11/2018 Page 6
+apionships - 23/11/2018 to 24/11/2018
+sion Championships 2018
+
+ 
+
+ 
+
+th Sheet
+49 Qin-Wang, Kelly 3 MACU X1:05.38
+50 Ivancic, Katie 1 WAT X1:06.18
+51 Leung, Megan 1 WAT X1:06.75
+52 Taller, Claire 3 WAT 1:08.18
+53. Sherwin S8sb8sm8, Megan 1 WAT 1:29.66
+54 Webster, Kat F 3 MACU XNT
+Event 24 Men 100 SC Meter Freestyle
+50.58 *Usport 2018-2019
+Name Yr School Seed Time
+1 Ferraro, Mitch 5 UT 48.92
+2 Dans, Matt 5 UT 50.42
+3. Chaubet, Gaél 4 UT 50.67
+4 Waddell, Brent 5 WES 5159
+5 Fazekas, Ethan 1 UT 5159
+6 Schrader, Bjoern-Ole 2 UT 5160
+7 Chu, Danyon 5 WAT 52.06
+8 Loewen, Matthew 4 WES 5218
+9 Lojko, Alex 3 WAT 52.23
+10 Sharland, Louis M 3 MACU 52.53
+11. Chappell, Elias 2 WES 52.78
+12 Levytskyy, Maksym 1 WAT 52.95
+13. Goodman, Graeme 2 UT 53.00
+14 Bird, Josh 1 WAT 53.10
+15 Muizelaar, Mitch A 4 MACU 53.14
+16  Ruus, Chris 2 UT 53.53
+17 Drabik, Cyrus M 2 MACU 53.84
+18 Li, Michael 2 WAT 53.94
+19 Lin, Johnnie 1 UT 54.02
+20  Cappa, Dominic 2 WES 54.14
+21 Oliver, Nicholas 3 WES 54.71
+22 Chow, Aidan 3 WAT 55.07
+23 Curry, Tristan 2 WAT 55.27
+24 Blomme, Adam R 2 MACU 55.36 ___
+25 Bagnell, Kevin 1 MACU 55.44
+26  Jrab, Mohamad 2 MACU 5547
+27 Rozo, Rafael J 3  MACU 5548
+28 Van Wyk, Brandon 5 WAT X55.84
+29  Woolven, Eric 5 WAT X55.99
+30  Potma, James R 2 MACU 56.50
+31 = Miller-Junk, Devon 1 WAT X56.59
+32  *Daniel, Jyasi 1 WAT 57.05
+33. Licari, Justin MACU 57.77
+34 Soliman, Peter 1 MACU 5888
+35 McCuaigS9sb9sm9,Cameron 1 WAT 1:08.15
+Event 25 Women 200 SC Meter Butterfly
+2:21.19 * Usport 2018-2019
+Name Yr School Seed Time
+1 Genich, Hannah 3 UT 2:10.56
+2 Kidd, Georgia 3 UT 2:13.77
+3 Du Plessis, Sophie 3 UT 2:16.52
+
+ 
+
+ 
+
+ 
+
+ 
+
+£
+
+CyUniversity of Toronto
+2018 OUA Fairweather Division Chan
+
+ 
+
+ 
+
+ 
+
+OUA Fairweather Divi:
+Psyc
+Event 25 ...(Women 200 SC Meter Butterfly)
+Name Yr School Seed Time
+4 Cairns, Katelyn 2 WES 2:18.63
+5 Rendall, Kate 1 UT 2:19.53
+6 Yu, Jess 3 UT 2:19.60
+7 Flanagan, Jordyn 2 WES 2:21.72 _
+8 Romkes, Megan 2 MACU 2:22.47
+9 Steiner, Giselle 1 UT 2:23.12
+10 Eley, Cailyn A 2 MACU 2:24.06
+11 Burwell, Kaitlyn 1 UT 2:24.47
+12 Lavergne, Paige 2 WAT 2:26.16
+13 Liu, Alyna WES 2:26.50
+14 Alameddine, Yasmine 1 MACU 2:27.76
+15 Lundenberg, Lucie R 2 MACU 2:28.85
+16 Shoemaker, Madelaine WES 2:29.50
+17 Li, Rebecca S 2 MACU 2:30.51
+18 Burwell, Taylor 1 UT 2:31.01
+19 Schlyter, Emma 2 MACU 2:35.19
+20 Zhang, Stephanie 1 WAT 2:39.67
+Event 26 Men 200 SC Meter Butterfly
+2:03.10 *Usport 2018-2019
+Name Yr School Seed Time
+1 Nitski, Osvald 4 UT 1:56.92
+2 Paulins, Sebastian 3 WES 2:00.48
+3 Mac, Matthew 3 UT 2:01.57
+4 Ryu, Hohyun 2 WAT 2:04.62
+5 Sosa Miranda, Cesar A 2 MACU 2:06.17
+6 Walker, Connor 1 UT 2:06.43
+7 Morley, Will 3 UT 2:06.65
+8 Alsan, Kaan 3 WAT 2:08.37
+9 Potvin, Benoit 2 WES 2:09.60
+10 Chambers, Ian 1 WAT 2:10.86
+11 Bird, Josh 1 WAT 2:11.24
+12 Papangelakis, Panos 3 MACU 2:11.80
+13 Brodie, Jonathan 4 WES 2:13.95
+14 Baghdassarian, Kevork 1 MACU 2:14.16
+15 Papadedes, Dimitri W 2 MACU 2:15.47
+16 = Corazza, Luca 1 UT 2:17.52
+Event 27 Women 200 SC Meter Breaststroke
+2:36.44 * Usport 2018-2019
+Name Yr School Seed Time
+1 ji, Christina 1 WAT 2:32.66
+2 Crocker, Kelsey 4 UT 2:33.45
+3 Goodman, Audrey 1 UT 2:38.91
+4 Demirov, Nicole 4 UT 2:39.02
+5 Belsh, Gabriella 3 WES 2:39.11
+6 Zila, Lea 3 UT 2:40.06
+7  Bumbulis, Laura 2 WAT 2:40.39
+8 Mckinley, Aivrey M 2 MACU 2:41.06
+9 Cheng, Michelle 3 WAT 2:44.32
+
+speedo
+
+-_”HY-TEK's MEET MANAGER 7.0 - 11:51 AM 20/11/2018 Page 7
+apionships - 23/11/2018 to 24/11/2018
+sion Championships 2018
+
+th Sheet
+10 Ryan, Brigitte 2 WES 2:44.46
+11 = Nowicki, Nicole 3 WAT 2:44.57
+12. Wicks, Victoria 4 UT 2:46.50
+13 Grace, Lianna WES 2:46.70
+14 MacAskill, Katie A 3 MACU 2:46.74
+15 Langham, Menley 2 WES 2:47.40
+16 Taller, Claire 3 WAT 2:50.80
+17 Cheveldayoff, Paige 1 MACU 2:57.76
+
+Event 28 Men 200 SC Meter Breaststroke
+2:17.47 * Usport 2018-2019
+
+ 
+
+Name Yr School Seed Time
+
+1 Meier, Simon 3 UT 2:15.14
+2 Gu, Jake 1 WAT 2:16.58
+3 Aylward, Graeme 1 UT 2:16.71
+4 Chambers, lan 1 WAT 2:19.07
+5S Moir, Ryan 2 WES 2:21.42
+6 McDermott, Tyler 4 UT 2:22.41
+7 Tchervenelekov, Mony 3 MACU 2:22.76
+8 Encinar, Alexander 2 WES 2:22.83
+9 Hao, Max 2 WAT 2:25.66
+10 Sanchez, H. Andre 2 WES 2:26.87
+11 Zhang, Anthony 1 WAT X2:32.52
+12 Sisouphanh, Danai 5 WES 2:32.59
+13 Joudrie, Aidan 4 WES 2:33.34
+14 Joudrie, Nolan WES. 2:35.40
+
+Event 29 Women 100 SC Meter Backstroke
+1:03.52 * Usport 2018-2019
+
+ 
+
+Name Yr School Seed Time
+1 Huddle, Charis 5 WES 1:00.70
+2 Allen, Jessica 2 WES 1:00.86
+3 Polley, Sarah 3 UT 1:01.01
+4 Gold, Aleksa 1 UT 1:01.37
+5 Dvorski, Hannah E 5 MACU 1:01.82
+6 Ladyman, Eloise 2 WAT 1:01.82
+7 Nichol, Veronica 2 MACU 1:02.00
+8 Rode, Rachel 3 UT 1:02.92
+9 Wong, Samantha 3 WES 1:03.99
+10 Neilson, Nicole 2 WES 1:04.85
+11. = Meklensek, Lexi 4 WES 1:06.20
+12 Chou, Lou Salome 3 WAT 1:06.49
+13 Peros, Sarah 2 WAT 1:06.76
+14 Lindsay, Cassis 1 MACU 1:06.77
+15 MacKinnon, Morley 2 WAT 1:07.19
+16 Hermanson, Hannah 1 UT 1:07.25
+17 Kruger, Kellita WES 1:07.50
+18 Lee, Kaitlyn D 2 MACU X1:11.26
+19 Chong, Cassandra 1 WAT 1:11.59
+20  Zuraw, Aurora R 3 MACU X1:11.76
+21 Shoemaker, Madelaine WES. 1:11.92
+22 Leung, Megan 1 WAT X1:15.19
+
+ 
+
+ 
+
+ 
+
+ 
+
+£
+
+CyUniversity of Toronto
+
+2018 OUA Fairweather Division Chan
+
+ 
+
+ 
+
+OUA Fairweather Divi:
+Psyc
+Event 30 Men 100 SC Meter Backstroke
+56.07 * Usport 2018-2019
+
+Name Yr School Seed Time
+
+1 Mac, Matthew 3 UT 55.89
+2 Towne, Garrett 1 UT 56.25,
+3 Klahsen, Matthew 2 WES 56.55,
+4 Ferraro, Mitch 5 UT 56.91
+5 Ruus, Chris 2 UT 56.99
+6 Wormald, Lukas 1 WAT 57.54
+7 Levytskyy, Maksym 1 WAT 58.73
+8 Goodman, Graeme 2 UT 58.88
+9 Ouyang, Leon 3 WAT 59.14
+10 Li, Michael 2 WAT 59.27
+11 Lin, Johnnie 1 UT 1:00.36
+12 Waddell, Brent 5 WES 1:00.80
+13. Van Wyk, Brandon 5 WAT X1:01.32
+14 _ Gillespie-Friesen, Noah 2 WAT 1:01.69
+15 Robinson, Tanner W 4 MACU 1:01.72
+16  Potma, James R 2 MACU 1:04.43
+17 McCuaig S9sb9sm9, Cameron 1 WAT 1:10.87
+
+Event 31 Women 50 SC Meter Butterfly
+28.34 *Usport 2018-2019
+
+Name Yr School Seed Time
+
+1 Rode, Rachel 3 UT 26.79
+2 Genich, Hannah 3 UT 26.99
+3 Du Plessis, Sophie 3 UT 27.58
+4 McMurray, Ainsley 1 UT 27.70
+5 Andres, Josie S WAT 27.95
+6 Yu, Jess 3 UT 28.13
+7 Little, Sarah R 2 MACU 28.24
+8 Kranje, Katarina 2 WES 28.27
+9 Sbaraglia, Olivia 3 UT 28.35
+10 Polley, Sarah 3 UT 28.36
+11 — Steiner, Giselle 1 UT 28.36
+12 Kidd, Georgia 3 UT 28.64
+13 Eley, Cailyn A 2 MACU 28.65
+14 Burwell, Kaitlyn 1 UT 28.68
+15 Allen, Jessica 2 WES 28.71
+16 Hodge, Sarah 3 UT 28.88
+17 Russell, Emily 5 UT 29.15
+18  Romkes, Megan 2 MACU 29.20
+19 Flanagan, Jordyn 2 WES 29.27
+20 Cairns, Katelyn 2 WES 29.28
+21 Roberts, Samantha WES 29.30
+22 Dvorski, Hannah E 5 MACU 29.34
+23 Burwell, Taylor 1 UT 29.39
+24  Kvedaras, Anna 1 MACU 29.81
+25 Tedesco, Diana 2 UT 29.93
+26 Code, Jessica WES 30.10
+27 Ma, Emily Y 3 MACU 30.11
+
+speedo
+
+_”HY-TEK's MEET MANAGER 7.0 - 11:51 AM 20/11/2018 Page 8
+apionships - 23/11/2018 to 24/11/2018
+sion Championships 2018
+
+th Sheet
+28 ~~ Liu, Alyna WES 30.20
+29 Li, Rebecca S 2 MACU 30.44
+30 Horton, Erin WES 30.50
+31 Wong, Samantha 3 WES 30.60
+32  Fedder, Sarah WES 30.70
+33 Lee, Kaitlyn D 2 MACU X30.79
+34 Qin-Wang, Kelly 3 MACU X30.97
+35 Zhou, Chelsea 1 MACU 30.99
+36 Lamb, Taylor WES 31.03
+37 Cheng, Michelle 3 WAT 31.11
+38 Zhang, Stephanie 1 WAT 31.21
+39 Leung, Megan 1 WAT X31.26
+40  Kucheran, Emmy 3 WAT 31.34
+41 Dobos, Natasha 3 WAT 31.60
+42 — Jickling, Shannon WES 32.10
+43 Chou, Lou Salome 3 WAT 32.27
+44 Chong, Cassandra 1 WAT 32.54
+45 Michael, Alexi 3 MACU X33.39
+46 _ Ivancic, Katie 1 WAT X34.64
+47 Sherwin S8sb8sm8, Megan 1 WAT 46.78
+48 Toy, Katherine 1 MACU NT
+
+Event 32 Men 50 SC Meter Butterfly
+24.95 * Usport 2018-2019
+
+ 
+
+Name Yr School Seed Time
+
+1 Dans, Matt 5 UT 24.06
+2 Ferraro, Mitch 5 UT 24.41
+3 Chaubet, Gaél 4 UT 24.75
+4 Nitski, Osvald 4 UT 24.81
+5 Chow, Aidan 3 WAT 24.97
+6 Brodie, Jonathan 4 WES 25.40
+7 Schrader, Bjoern-Ole 2 UT 25.40
+8 Chappell, Elias 2 WES 25.42
+9 Lojko, Alex 3 WAT 25.74
+10 Potma, James R 2 MACU 26.04
+11 Fazekas, Ethan 1 UT 26.13
+12 Ouyang, Leon 3 WAT 26.24
+13 Lin, Johnnie 1 UT 26.26
+14 = Curry, Tristan 2 WAT 26.48
+15 Sharland, Louis M 3 MACU 26.54
+16 Chu, Danyon 5 WAT 26.62
+17 Alsan, Kaan 3 WAT 26.93
+18  *Daniel, Jyasi 1 WAT 27.09
+19 Baghdassarian, Kevork 1 MACU 27.21
+20 Potvin, Benoit 2 WES 27.31
+21 Drabik, Cyrus M 2 MACU 27.41
+22 Rozo, Rafael J 3 > MACU 27.61
+23 Woolven, Eric 5 WAT X27.95
+24 — Levytskyy, Maksym 1 WAT 28.01
+25 — Licari, Justin MACU 29.19University of Toronto
+2018 OUA Fairweather Division Chan
+
+ 
+
+ 
+
+ 
+
+OUA Fairweather Divi:
+Psyc
+Event 33 Women 50 SC Meter Breaststroke
+33.27 * Usport 2018-2019
+Name Yr School Seed Time
+1 Ji, Christina 1 WAT 32.84
+2 Zila, Lea 3 UT 33.04
+3. Wicks, Victoria 4 UT 33.20
+4 Andres, Josie 5 WAT 33.22
+5 Crocker, Kelsey 4 UT 33.33
+6 Nowicki, Nicole 3 WAT 33.56
+7 Cheng, Michelle 3 WAT 33.81
+8 Goodman, Audrey 1 UT 33.89
+9 Chen, Joan-Shiao 2 WES 34.45
+10 =Kvedaras, Anna 1 MACU 34.46
+11 ‘Ryan, Brigitte 2 WES 34.73
+12 Mckinley, Aivrey M 2 MACU 35.03
+13 Demirov, Nicole 4 UT 35.30
+14 Mariano, Jacquelyne 1 WAT 36.23
+15 Wong, Ellie 2 WAT 36.38
+16 Taller, Claire 3 WAT 37.07
+17 Grace, Lianna WES 3740
+18 Fazeli, Hiva 1 MACU 38.37
+Event 34 Men 50 SC Meter Breaststroke
+29.02 * Usport 2018-2019
+Name Yr School Seed Time
+1 Loewen, Matthew 4 WES 27.65
+2 Meier, Simon 3 UT 28.87
+3 Gu, Jake 1 WAT 2911
+4 Rosedale, Benjamin 2 WES 29.53
+5 Chambers, Ian 1 WAT 29.64
+6 Aylward, Graeme 1 UT 29.75
+7 Cvitkovic, Evan 4 MACU 30.08
+8 Curry, Tristan 2 WAT 30.23
+9 Encinar, Alexander 2 WES 30.30
+10 McDermott, Tyler 4 UT 30.40
+11 Sisouphanh, Danai 5 WES 30.61
+12 Sanchez, H. Andre 2 WES 30.80
+13. Hao, Max 2 WAT 30.82
+14 Moir, Ryan 2 WES 31.09
+15 Zhang, Anthony 1 WAT X3134
+16 ~~ Drasovean, Christian WES 3269
+17 ‘Joudrie, Aidan 4 WES 32.93
+Event 35 Women 400 SC Meter Freestyle
+4:22.43 * Usport 2018-2019
+Name Yr School Seed Time
+1 Saroukian, Sophia 3 UT 4:14.84
+2. Radounski, Victoria 5 UT 4:18.40
+3 Cheng, Jess 2 UT 4:18.99
+4 Gold, Aleksa 1 UT 4:20.19
+5 Brazeau, Keira 4 WES 4:20.82
+
+speedo
+
+-_”HY-TEK's MEET MANAGER 7.0 - 11:51 AM 20/11/2018 Page 9
+apionships - 23/11/2018 to 24/11/2018
+sion Championships 2018
+
+th Sheet
+
+6 Rendall, Kate 1 UT 4:20.99
+
+7 Kidd, Georgia 3 UT 4:21.53
+
+8 Cairns, Stephanie 2 WES 4:22.57
+
+9 vanLeeuwen, Jocelyn 3 WAT 4:23.00
+10 Barrette, Josee 4 UT 4:23.85
+11 Howard, Claire 1 UT 4:28.40
+12 DeCarlo, Courtney 4 WES 4:28.85
+13 Sawchuk, Rachel 3 WES 4:31.60
+14 Lei, Isabelle W 2 MACU 4:33.33
+15 Schlyter, Emma 2 MACU 4:36.66
+16 Lundenberg, Lucie R 2 MACU 4:37.69
+17 Bolger, Elise 1 MACU 4:38.88
+18 Cheveldayoff, Paige 1 MACU 4:45.55,
+19 Lavergne, Paige 2 WAT 4:46.70
+20 = MacAskill, Katie A 3 MACU 4:50.25
+21 Stokes, Jenna WES 4:54.55
+22 Fehr, Cydney 2 MACU X4:56.66
+23 Zhang, Stephanie 1 WAT 4:58.91
+24 Webster, Kat F 3 > MACU X5:01.73
+25 MacKinnon, Morley 2 WAT 5:15.56
+26  Kucheran, Emmy 3 WAT NT
+
+Event 36 Men 400 SC Meter Freestyle
+3:56.53 * Usport 2018-2019
+
+ 
+
+Name Yr School Seed Time
+
+1 Muizelaar, Mitch A 4 MACU 3:52.82
+2 Paulins, Sebastian 3 WES 3:55.39
+3. Walker, Connor 1 UT 4:00.10
+4 Smith, Everett 1 UT 4:01.60
+5 Bird, Josh 1 WAT 4:02.45
+6 Morley, Will 3 UT 4:03.25
+7 Jrab, Mohamad 2 MACU 4:04.99
+8  Corazza, Luca 1 UT 4:06.41
+9 Papangelakis, Panos 3 MACU 4:07.24
+10 Vallee, Andrew 4 WES 4:07.75
+11 Gillespie-Friesen, Noah 2 WAT 4:14.01
+12 Towne, Garrett 1 UT 4:14.40
+13. Blomme, Adam R 2 MACU 4:14.96
+14 Bagnell, Kevin 1 MACU 4:15.55
+15 Kelly, Sean 1 WAT 4:18.33
+16 Baghdassarian, Kevork 1 MACU 4:20.00
+17 Rogozynski, Noah 1 WAT 4:24.33
+18 Miller-Junk, Devon 1 WAT X4:31.66
+19 Soliman, Peter 1 MACU 4:35.55,
+
+Event 37 Women 400 SC Meter Freestyle Relay
+3:50.71 * Usport 2018-2019
+
+ 
+
+Team Relay Seed Time
+1 UT A 3:45.28
+2 Mustangs A 3:46.50
+3. MACU A 3:47.95
+4 Warriors A 3:55.56
+
+ 
+
+ 
+
+ 
+
+ 
+
+£
+
+CyUniversity of Toronto
+2018 OUA Fairweather Division Chan
+
+ 
+
+ 
+
+QUA Fairweather Divi:
+Psyc
+Event 37 ...(Women 400 SC Meter Freestyle Relay)
+Team Relay Seed Time
+5 UT B 3:56.01
+6 Warriors B 4:10.00
+7  MACU B NT
+8 Mustangs B NT
+Event 38 Men 400 SC Meter Freestyle Relay
+3:23.85 *Usport 2018-2019
+Team Relay Seed Time
+1 UT A 3:21.25
+2 Mustangs A 3:23.06
+3 UT B 3:27.53
+4 MACU A 3:28.86
+5 Warriors A 3:29.95
+6 Warriors B 3:37.08
+7 MACU B NT
+8 Mustangs B NT _
+
+speedoHY-TEK's MEET MANAGER 7.0 - 11:51 AM 20/11/2018 Page 10
+ipionships - 23/11/2018 to 24/11/2018
+sion Championships 2018
+h Sheet
+Event 1 Women 200 SC Meter Freestyle Relay
+1 University of Toronto: +40
+2 University of Western Ontario: +34
+3 McMaster University: +32
+4 University of Toronto: +30
+5 University of Waterloo: +28
+6 University of Waterloo: +26
+7 McMaster University: +24
+8 University of Western Ontario: +22
+Event 2 Men 200 SC Meter Freestyle Relay
+1 University of Toronto: +40
+2 University of Western Ontario: +34
+3 McMaster University: +32
+4 University of Waterloo: +30
+5 University of Toronto: +28
+6 University of Waterloo: +26
+7 McMaster University: +24
+8 University of Western Ontario: +22
+Event 3 Women 400 SC Meter IM
+1 University of Western Ontario: +20
+2 University of Western Ontario: +17
+3 University of Toronto: +16
+4 University of Toronto: +15
+5 University of Waterloo: +14
+6 University of Toronto: +13
+7 McMaster University: +12
+8 McMaster University: +11
+9 University of Waterloo: +9
+10 University of Waterloo: +7
+11 McMaster University: +6
+12 University of Waterloo: +5
+13 University of Western Ontario: +4
+Event 4 Men 400 SC Meter IM
+1 University of Toronto: +20
+2 McMaster University: +17
+3 University of Waterloo: +16
+4 McMaster University: +15
+5 University of Waterloo: +14
+6 University of Toronto: +13
+7 University of Waterloo: +12
+8 University of Western Ontario: +11
+9 McMaster University: +9
+10 University of Waterloo: +7
+11 University of Waterloo: +6
+Event 5 Women 50 SC Meter Backstroke
+1 University of Toronto: +20
+2 University of Toronto: +17
+3 University of Western Ontario: +16
+4 University of Toronto: +15
+5 University of Waterloo: +14
+6 University of Western Ontario: +13
+7 McMaster University: +12
+8 McMaster University: +11
+9 University of Waterloo: +9
+10 University of Western Ontario: +7
+11 University of Western Ontario: +6
+12 University of Western Ontario: +5
+13 University of Toronto: +4
+14 University of Toronto: +3
+15 University of Waterloo: +2
+16 University of Waterloo: +1
+17 University of Toronto: +0
+18 University of Waterloo: +0
+19 University of Western Ontario: +0
+20 McMaster University: +0
+21 University of Waterloo: +0
+22 University of Western Ontario: +0
+23 University of Waterloo: +0
+24 University of Waterloo: +0
+Event 6 Men 50 SC Meter Backstroke
+1 University of Toronto: +20
+2 University of Western Ontario: +17
+3 University of Toronto: +16
+4 University of Waterloo: +15
+5 McMaster University: +14
+6 University of Waterloo: +13
+7 University of Waterloo: +12
+8 McMaster University: +11
+9 University of Toronto: +9
+10 University of Toronto: +7
+11 University of Waterloo: +6
+12 University of Waterloo: +5
+13 University of Waterloo: +4
+Info: Could not find team name in 2018 OUA Fairweather Division Chan
+Event 7 Women 200 SC Meter Freestyle
+1 University of Toronto: +20
+2 University of Toronto: +17
+3 University of Toronto: +16
+4 McMaster University: +15
+5 University of Toronto: +14
+6 University of Toronto: +13
+7 University of Western Ontario: +12
+8 University of Waterloo: +11
+9 University of Toronto: +9
+10 University of Toronto: +7
+11 University of Toronto: +6
+12 University of Western Ontario: +5
+13 University of Toronto: +4
+14 University of Waterloo: +3
+15 McMaster University: +2
+16 McMaster University: +1
+17 University of Western Ontario: +0
+18 McMaster University: +0
+19 University of Waterloo: +0
+20 McMaster University: +0
+21 McMaster University: +0
+22 McMaster University: +0
+Event 8 Men 200 SC Meter Freestyle
+1 University of Toronto: +20
+2 University of Toronto: +17
+3 McMaster University: +16
+4 University of Toronto: +15
+5 University of Western Ontario: +14
+6 University of Toronto: +13
+7 University of Toronto: +12
+8 University of Waterloo: +11
+9 McMaster University: +9
+10 University of Toronto: +7
+11 University of Waterloo: +6
+12 University of Toronto: +5
+13 McMaster University: +4
+14 University of Toronto: +3
+15 University of Waterloo: +2
+16 University of Toronto: +1
+17 McMaster University: +0
+18 McMaster University: +0
+19 University of Toronto: +0
+20 McMaster University: +0
+21 McMaster University: +0
+22 University of Waterloo: +0
+23 University of Waterloo: +0
+24 University of Western Ontario: +0
+25 University of Waterloo: +0
+26 University of Waterloo: +0
+27 McMaster University: +0
+Event 9 Women 100 SC Meter Butterfly
+1 University of Toronto: +20
+2 University of Toronto: +17
+3 University of Toronto: +16
+4 McMaster University: +15
+5 University of Waterloo: +14
+6 University of Toronto: +13
+7 University of Western Ontario: +12
+8 McMaster University: +11
+9 University of Toronto: +9
+10 University of Toronto: +7
+11 McMaster University: +6
+12 University of Toronto: +5
+13 University of Western Ontario: +4
+14 McMaster University: +3
+15 McMaster University: +2
+16 University of Toronto: +1
+17 McMaster University: +0
+18 University of Toronto: +0
+19 University of Western Ontario: +0
+20 University of Western Ontario: +0
+21 McMaster University: +0
+22 University of Western Ontario: +0
+23 McMaster University: +0
+24 University of Western Ontario: +0
+25 University of Western Ontario: +0
+26 University of Western Ontario: +0
+27 University of Western Ontario: +0
+28 McMaster University: +0
+29 University of Western Ontario: +0
+30 University of Waterloo: +0
+31 University of Waterloo: +0
+32 McMaster University: +0
+33 University of Waterloo: +0
+34 University of Waterloo: +0
+Event 10 Men 100 SC Meter Butterfly
+1 University of Toronto: +20
+2 University of Toronto: +17
+3 University of Waterloo: +16
+4 University of Toronto: +15
+5 University of Western Ontario: +14
+Info: Could not find team name in 2018 OUA Fairweather Division Chan
+Event 10 ...(Men 100 SC Meter Butterfly)
+Warning: Unexpected Place 6, expected 1
+6 University of Western Ontario: +13
+7 University of Waterloo: +12
+8 McMaster University: +11
+9 McMaster University: +9
+10 University of Waterloo: +7
+11 University of Waterloo: +6
+12 University of Waterloo: +5
+13 University of Toronto: +4
+14 University of Western Ontario: +3
+15 McMaster University: +2
+16 University of Waterloo: +1
+17 University of Waterloo: +0
+18 McMaster University: +0
+19 University of Waterloo: +0
+20 University of Waterloo: +0
+21 McMaster University: +0
+22 McMaster University: +0
+23 McMaster University: +0
+Event 11 Women 100 SC Meter Breaststroke
+1 University of Waterloo: +20
+2 University of Toronto: +17
+3 University of Toronto: +16
+4 University of Toronto: +15
+5 University of Toronto: +14
+6 University of Waterloo: +13
+7 University of Waterloo: +12
+8 University of Waterloo: +11
+9 University of Toronto: +9
+10 McMaster University: +7
+11 University of Western Ontario: +6
+12 University of Western Ontario: +5
+13 McMaster University: +4
+14 University of Western Ontario: +3
+15 McMaster University: +2
+16 McMaster University: +1
+17 McMaster University: +0
+18 University of Waterloo: +0
+19 University of Western Ontario: +0
+20 University of Western Ontario: +0
+Event 12 Men 100 SC Meter Breaststroke
+1 University of Western Ontario: +20
+2 University of Toronto: +17
+3 University of Waterloo: +16
+4 University of Toronto: +15
+5 University of Western Ontario: +14
+6 University of Waterloo: +13
+7 University of Western Ontario: +12
+8 McMaster University: +11
+9 University of Toronto: +9
+10 University of Waterloo: +7
+11 University of Western Ontario: +6
+12 University of Western Ontario: +5
+13 University of Waterloo: +4
+14 McMaster University: +3
+15 University of Western Ontario: +2
+16 University of Waterloo: +1
+17 University of Western Ontario: +0
+18 University of Western Ontario: +0
+19 University of Western Ontario: +0
+20 University of Waterloo: +0
+Event 13 Women 200 SC Meter Backstroke
+1 University of Toronto: +20
+2 University of Toronto: +17
+3 University of Toronto: +16
+4 University of Waterloo: +15
+5 McMaster University: +14
+6 University of Toronto: +13
+7 University of Western Ontario: +12
+8 University of Western Ontario: +11
+9 University of Toronto: +9
+10 University of Waterloo: +7
+11 University of Western Ontario: +6
+12 University of Waterloo: +5
+13 McMaster University: +4
+14 McMaster University: +3
+15 University of Waterloo: +2
+Event 14 Men 200 SC Meter Backstroke
+1 University of Toronto: +20
+2 University of Western Ontario: +17
+3 University of Waterloo: +16
+4 University of Toronto: +15
+5 University of Waterloo: +14
+6 University of Toronto: +13
+7 University of Waterloo: +12
+8 University of Toronto: +11
+9 University of Toronto: +9
+10 McMaster University: +7
+11 University of Waterloo: +6
+12 University of Waterloo: +5
+Info: Could not find team name in 2018 OUA Fairweather Division Chan
+Event 15 Women 50 SC Meter Freestyle
+1 University of Toronto: +20
+2 University of Toronto: +17
+3 University of Western Ontario: +16
+4 University of Toronto: +15
+5 University of Toronto: +14
+6 University of Waterloo: +13
+7 University of Toronto: +12
+8 McMaster University: +11
+9 University of Waterloo: +9
+10 University of Toronto: +7
+11 University of Western Ontario: +6
+12 University of Western Ontario: +5
+13 University of Western Ontario: +4
+14 McMaster University: +3
+15 McMaster University: +2
+16 University of Toronto: +1
+17 McMaster University: +0
+18 McMaster University: +0
+19 University of Toronto: +0
+20 University of Western Ontario: +0
+21 University of Toronto: +0
+22 McMaster University: +0
+23 McMaster University: +0
+24 University of Western Ontario: +0
+25 McMaster University: +0
+26 University of Toronto: +0
+27 University of Toronto: +0
+28 University of Toronto: +0
+29 University of Toronto: +0
+30 University of Western Ontario: +0
+31 University of Toronto: +0
+32 University of Western Ontario: +0
+33 University of Western Ontario: +0
+34 University of Western Ontario: +0
+35 University of Waterloo: +0
+36 University of Western Ontario: +0
+37 University of Waterloo: +0
+38 University of Waterloo: +0
+39 University of Toronto: +0
+40 University of Western Ontario: +0
+41 University of Western Ontario: +0
+42 McMaster University: +0
+43 McMaster University: +0
+44 McMaster University: +0
+45 McMaster University: +0
+46 University of Waterloo: +0
+47 McMaster University: +0
+48 University of Waterloo: +0
+49 McMaster University: +0
+50 McMaster University: +0
+51 University of Waterloo: +0
+52 University of Waterloo: +0
+53 University of Waterloo: +0
+54 University of Western Ontario: +0
+55 McMaster University: +0
+56 University of Waterloo: +0
+57 University of Waterloo: +0
+Event 16 Men 50 SC Meter Freestyle
+1 University of Toronto: +20
+2 University of Toronto: +17
+3 University of Western Ontario: +16
+4 University of Toronto: +15
+5 University of Toronto: +14
+6 University of Waterloo: +13
+7 University of Waterloo: +12
+8 University of Western Ontario: +11
+9 McMaster University: +9
+10 University of Toronto: +7
+11 McMaster University: +6
+12 University of Western Ontario: +5
+13 McMaster University: +4
+14 University of Waterloo: +3
+15 University of Western Ontario: +2
+16 University of Waterloo: +1
+17 University of Waterloo: +0
+18 University of Western Ontario: +0
+19 University of Western Ontario: +0
+20 University of Western Ontario: +0
+21 University of Western Ontario: +0
+22 McMaster University: +0
+23 University of Western Ontario: +0
+24 McMaster University: +0
+25 University of Waterloo: +0
+26 University of Waterloo: +0
+27 University of Waterloo: +0
+28 University of Waterloo: +0
+29 McMaster University: +0
+30 McMaster University: +0
+31 University of Waterloo: +0
+32 University of Waterloo: +0
+Event 17 Women 800 SC Meter Freestyle
+1 University of Toronto: +20
+2 University of Toronto: +17
+3 University of Toronto: +16
+Info: Could not find team name in 2018 OUA Fairweather Division Chan
+Event 17 ...(Women 800 SC Meter Freestyle)
+Warning: Unexpected Place 4, expected 1
+4 University of Toronto: +15
+5 University of Western Ontario: +14
+6 University of Western Ontario: +13
+7 University of Waterloo: +12
+8 McMaster University: +11
+9 University of Western Ontario: +9
+10 McMaster University: +7
+11 McMaster University: +6
+12 McMaster University: +5
+13 McMaster University: +4
+14 McMaster University: +3
+15 University of Waterloo: +2
+16 University of Waterloo: +1
+Event 18 Men 1500 SC Meter Freestyle
+1 McMaster University: +20
+2 University of Western Ontario: +17
+3 University of Toronto: +16
+4 McMaster University: +15
+5 University of Waterloo: +14
+6 University of Toronto: +13
+7 University of Western Ontario: +12
+8 University of Toronto: +11
+9 University of Waterloo: +9
+10 McMaster University: +7
+11 McMaster University: +6
+12 University of Waterloo: +5
+13 University of Waterloo: +4
+Event 19 Women 200 SC Meter Medley Relay
+1 University of Toronto: +40
+2 McMaster University: +34
+3 University of Western Ontario: +32
+4 University of Toronto: +30
+5 University of Waterloo: +28
+6 University of Waterloo: +26
+7 McMaster University: +24
+8 University of Western Ontario: +22
+Event 20 Men 200 SC Meter Medley Relay
+1 University of Toronto: +40
+2 University of Western Ontario: +34
+3 McMaster University: +32
+4 University of Toronto: +30
+5 University of Waterloo: +28
+6 University of Waterloo: +26
+7 McMaster University: +24
+8 University of Western Ontario: +22
+Event 21 Women 200 SC Meter IM
+1 University of Toronto: +20
+2 University of Western Ontario: +17
+3 University of Waterloo: +16
+4 University of Toronto: +15
+5 University of Western Ontario: +14
+6 University of Western Ontario: +13
+7 McMaster University: +12
+8 University of Waterloo: +11
+9 University of Waterloo: +9
+10 University of Toronto: +7
+11 McMaster University: +6
+12 University of Waterloo: +5
+13 University of Toronto: +4
+14 University of Waterloo: +3
+15 McMaster University: +2
+16 McMaster University: +1
+17 McMaster University: +0
+18 University of Western Ontario: +0
+19 University of Waterloo: +0
+20 University of Western Ontario: +0
+Event 22 Men 200 SC Meter IM
+1 University of Waterloo: +20
+2 University of Toronto: +17
+3 University of Waterloo: +16
+4 University of Toronto: +15
+5 University of Toronto: +14
+6 McMaster University: +13
+7 University of Waterloo: +12
+8 University of Waterloo: +11
+9 University of Western Ontario: +9
+10 University of Waterloo: +7
+11 McMaster University: +6
+12 McMaster University: +5
+13 McMaster University: +4
+14 University of Western Ontario: +3
+15 University of Waterloo: +2
+16 University of Waterloo: +1
+Info: Could not find team name in 2018 OUA Fairweather Division Chan
+Event 23 Women 100 SC Meter Freestyle
+1 University of Western Ontario: +20
+2 University of Toronto: +17
+3 McMaster University: +16
+4 University of Toronto: +15
+5 University of Toronto: +14
+6 University of Toronto: +13
+7 University of Toronto: +12
+8 University of Waterloo: +11
+9 University of Western Ontario: +9
+10 University of Toronto: +7
+11 University of Toronto: +6
+12 University of Toronto: +5
+13 University of Western Ontario: +4
+14 University of Waterloo: +3
+15 McMaster University: +2
+16 University of Toronto: +1
+17 University of Western Ontario: +0
+18 McMaster University: +0
+19 University of Western Ontario: +0
+20 University of Waterloo: +0
+21 University of Toronto: +0
+22 University of Western Ontario: +0
+23 University of Western Ontario: +0
+24 University of Toronto: +0
+25 University of Western Ontario: +0
+26 University of Western Ontario: +0
+27 University of Toronto: +0
+28 McMaster University: +0
+29 McMaster University: +0
+30 University of Western Ontario: +0
+31 University of Western Ontario: +0
+32 McMaster University: +0
+33 University of Toronto: +0
+34 McMaster University: +0
+35 University of Western Ontario: +0
+36 McMaster University: +0
+37 McMaster University: +0
+38 University of Western Ontario: +0
+39 McMaster University: +0
+40 University of Waterloo: +0
+41 University of Western Ontario: +0
+42 University of Waterloo: +0
+43 McMaster University: +0
+44 University of Waterloo: +0
+45 McMaster University: +0
+46 McMaster University: +0
+47 University of Waterloo: +0
+48 University of Waterloo: +0
+49 McMaster University: +0
+50 University of Waterloo: +0
+51 University of Waterloo: +0
+52 University of Waterloo: +0
+53 University of Waterloo: +0
+54 McMaster University: +0
+Event 24 Men 100 SC Meter Freestyle
+1 University of Toronto: +20
+2 University of Toronto: +17
+3 University of Toronto: +16
+4 University of Western Ontario: +15
+5 University of Toronto: +14
+6 University of Toronto: +13
+7 University of Waterloo: +12
+8 University of Western Ontario: +11
+9 University of Waterloo: +9
+10 McMaster University: +7
+11 University of Western Ontario: +6
+12 University of Waterloo: +5
+13 University of Toronto: +4
+14 University of Waterloo: +3
+15 McMaster University: +2
+16 University of Toronto: +1
+17 McMaster University: +0
+18 University of Waterloo: +0
+19 University of Toronto: +0
+20 University of Western Ontario: +0
+21 University of Western Ontario: +0
+22 University of Waterloo: +0
+23 University of Waterloo: +0
+24 McMaster University: +0
+25 McMaster University: +0
+26 McMaster University: +0
+27 McMaster University: +0
+28 University of Waterloo: +0
+29 University of Waterloo: +0
+30 McMaster University: +0
+31 University of Waterloo: +0
+32 University of Waterloo: +0
+33 McMaster University: +0
+34 McMaster University: +0
+35 University of Waterloo: +0
+Event 25 Women 200 SC Meter Butterfly
+1 University of Toronto: +20
+2 University of Toronto: +17
+3 University of Toronto: +16
+Info: Could not find team name in 2018 OUA Fairweather Division Chan
+Event 25 ...(Women 200 SC Meter Butterfly)
+Warning: Unexpected Place 4, expected 1
+4 University of Western Ontario: +15
+5 University of Toronto: +14
+6 University of Toronto: +13
+7 University of Western Ontario: +12
+8 McMaster University: +11
+9 University of Toronto: +9
+10 McMaster University: +7
+11 University of Toronto: +6
+12 University of Waterloo: +5
+13 University of Western Ontario: +4
+14 McMaster University: +3
+15 McMaster University: +2
+16 University of Western Ontario: +1
+17 McMaster University: +0
+18 University of Toronto: +0
+19 McMaster University: +0
+20 University of Waterloo: +0
+Event 26 Men 200 SC Meter Butterfly
+1 University of Toronto: +20
+2 University of Western Ontario: +17
+3 University of Toronto: +16
+4 University of Waterloo: +15
+5 McMaster University: +14
+6 University of Toronto: +13
+7 University of Toronto: +12
+8 University of Waterloo: +11
+9 University of Western Ontario: +9
+10 University of Waterloo: +7
+11 University of Waterloo: +6
+12 McMaster University: +5
+13 University of Western Ontario: +4
+14 McMaster University: +3
+15 McMaster University: +2
+16 University of Toronto: +1
+Event 27 Women 200 SC Meter Breaststroke
+1 University of Waterloo: +20
+2 University of Toronto: +17
+3 University of Toronto: +16
+4 University of Toronto: +15
+5 University of Western Ontario: +14
+6 University of Toronto: +13
+7 University of Waterloo: +12
+8 McMaster University: +11
+9 University of Waterloo: +9
+10 University of Western Ontario: +7
+11 University of Waterloo: +6
+12 University of Toronto: +5
+13 University of Western Ontario: +4
+14 McMaster University: +3
+15 University of Western Ontario: +2
+16 University of Waterloo: +1
+17 McMaster University: +0
+Event 28 Men 200 SC Meter Breaststroke
+1 University of Toronto: +20
+2 University of Waterloo: +17
+3 University of Toronto: +16
+4 University of Waterloo: +15
+5 University of Western Ontario: +14
+6 University of Toronto: +13
+7 McMaster University: +12
+8 University of Western Ontario: +11
+9 University of Waterloo: +9
+10 University of Western Ontario: +7
+11 University of Waterloo: +6
+12 University of Western Ontario: +5
+13 University of Western Ontario: +4
+14 University of Western Ontario: +3
+Event 29 Women 100 SC Meter Backstroke
+1 University of Western Ontario: +20
+2 University of Western Ontario: +17
+3 University of Toronto: +16
+4 University of Toronto: +15
+5 McMaster University: +14
+6 University of Waterloo: +13
+7 McMaster University: +12
+8 University of Toronto: +11
+9 University of Western Ontario: +9
+10 University of Western Ontario: +7
+11 University of Western Ontario: +6
+12 University of Waterloo: +5
+13 University of Waterloo: +4
+14 McMaster University: +3
+15 University of Waterloo: +2
+16 University of Toronto: +1
+17 University of Western Ontario: +0
+18 McMaster University: +0
+19 University of Waterloo: +0
+20 McMaster University: +0
+21 University of Western Ontario: +0
+22 University of Waterloo: +0
+Info: Could not find team name in 2018 OUA Fairweather Division Chan
+Event 30 Men 100 SC Meter Backstroke
+1 University of Toronto: +20
+2 University of Toronto: +17
+3 University of Western Ontario: +16
+4 University of Toronto: +15
+5 University of Toronto: +14
+6 University of Waterloo: +13
+7 University of Waterloo: +12
+8 University of Toronto: +11
+9 University of Waterloo: +9
+10 University of Waterloo: +7
+11 University of Toronto: +6
+12 University of Western Ontario: +5
+13 University of Waterloo: +4
+14 University of Waterloo: +3
+15 McMaster University: +2
+16 McMaster University: +1
+17 University of Waterloo: +0
+Event 31 Women 50 SC Meter Butterfly
+1 University of Toronto: +20
+2 University of Toronto: +17
+3 University of Toronto: +16
+4 University of Toronto: +15
+5 University of Waterloo: +14
+6 University of Toronto: +13
+7 McMaster University: +12
+8 University of Western Ontario: +11
+9 University of Toronto: +9
+10 University of Toronto: +7
+11 University of Toronto: +6
+12 University of Toronto: +5
+13 McMaster University: +4
+14 University of Toronto: +3
+15 University of Western Ontario: +2
+16 University of Toronto: +1
+17 University of Toronto: +0
+18 McMaster University: +0
+19 University of Western Ontario: +0
+20 University of Western Ontario: +0
+21 University of Western Ontario: +0
+22 McMaster University: +0
+23 University of Toronto: +0
+24 McMaster University: +0
+25 University of Toronto: +0
+26 University of Western Ontario: +0
+27 McMaster University: +0
+28 University of Western Ontario: +0
+29 McMaster University: +0
+30 University of Western Ontario: +0
+31 University of Western Ontario: +0
+32 University of Western Ontario: +0
+33 McMaster University: +0
+34 McMaster University: +0
+35 McMaster University: +0
+36 University of Western Ontario: +0
+37 University of Waterloo: +0
+38 University of Waterloo: +0
+39 University of Waterloo: +0
+40 University of Waterloo: +0
+41 University of Waterloo: +0
+42 University of Western Ontario: +0
+43 University of Waterloo: +0
+44 University of Waterloo: +0
+45 McMaster University: +0
+46 University of Waterloo: +0
+47 University of Waterloo: +0
+48 McMaster University: +0
+Event 32 Men 50 SC Meter Butterfly
+1 University of Toronto: +20
+2 University of Toronto: +17
+3 University of Toronto: +16
+4 University of Toronto: +15
+5 University of Waterloo: +14
+6 University of Western Ontario: +13
+7 University of Toronto: +12
+8 University of Western Ontario: +11
+9 University of Waterloo: +9
+10 McMaster University: +7
+11 University of Toronto: +6
+12 University of Waterloo: +5
+13 University of Toronto: +4
+14 University of Waterloo: +3
+15 McMaster University: +2
+16 University of Waterloo: +1
+17 University of Waterloo: +0
+18 University of Waterloo: +0
+19 McMaster University: +0
+20 University of Western Ontario: +0
+21 McMaster University: +0
+22 McMaster University: +0
+23 University of Waterloo: +0
+24 University of Waterloo: +0
+25 McMaster University: +0
+Info: Could not find team name in 2018 OUA Fairweather Division Chan
+Event 33 Women 50 SC Meter Breaststroke
+1 University of Waterloo: +20
+2 University of Toronto: +17
+3 University of Toronto: +16
+4 University of Waterloo: +15
+5 University of Toronto: +14
+6 University of Waterloo: +13
+7 University of Waterloo: +12
+8 University of Toronto: +11
+9 University of Western Ontario: +9
+10 McMaster University: +7
+11 University of Western Ontario: +6
+12 McMaster University: +5
+13 University of Toronto: +4
+14 University of Waterloo: +3
+15 University of Waterloo: +2
+16 University of Waterloo: +1
+17 University of Western Ontario: +0
+18 McMaster University: +0
+Event 34 Men 50 SC Meter Breaststroke
+1 University of Western Ontario: +20
+2 University of Toronto: +17
+3 University of Waterloo: +16
+4 University of Western Ontario: +15
+5 University of Waterloo: +14
+6 University of Toronto: +13
+7 McMaster University: +12
+8 University of Waterloo: +11
+9 University of Western Ontario: +9
+10 University of Toronto: +7
+11 University of Western Ontario: +6
+12 University of Western Ontario: +5
+13 University of Waterloo: +4
+14 University of Western Ontario: +3
+15 University of Waterloo: +2
+16 University of Western Ontario: +1
+17 University of Western Ontario: +0
+Event 35 Women 400 SC Meter Freestyle
+1 University of Toronto: +20
+2 University of Toronto: +17
+3 University of Toronto: +16
+4 University of Toronto: +15
+5 University of Western Ontario: +14
+6 University of Toronto: +13
+7 University of Toronto: +12
+8 University of Western Ontario: +11
+9 University of Waterloo: +9
+10 University of Toronto: +7
+11 University of Toronto: +6
+12 University of Western Ontario: +5
+13 University of Western Ontario: +4
+14 McMaster University: +3
+15 McMaster University: +2
+16 McMaster University: +1
+17 McMaster University: +0
+18 McMaster University: +0
+19 University of Waterloo: +0
+20 McMaster University: +0
+21 University of Western Ontario: +0
+22 McMaster University: +0
+23 University of Waterloo: +0
+24 McMaster University: +0
+25 University of Waterloo: +0
+26 University of Waterloo: +0
+Event 36 Men 400 SC Meter Freestyle
+1 McMaster University: +20
+2 University of Western Ontario: +17
+3 University of Toronto: +16
+4 University of Toronto: +15
+5 University of Waterloo: +14
+6 University of Toronto: +13
+7 McMaster University: +12
+8 University of Toronto: +11
+9 McMaster University: +9
+10 University of Western Ontario: +7
+11 University of Waterloo: +6
+12 University of Toronto: +5
+13 McMaster University: +4
+14 McMaster University: +3
+15 University of Waterloo: +2
+16 McMaster University: +1
+17 University of Waterloo: +0
+18 University of Waterloo: +0
+19 McMaster University: +0
+Event 37 Women 400 SC Meter Freestyle Relay
+1 University of Toronto: +40
+2 University of Western Ontario: +34
+3 McMaster University: +32
+4 University of Waterloo: +30
+Info: Could not find team name in 2018 OUA Fairweather Division Chan
+Event 37 ...(Women 400 SC Meter Freestyle Relay)
+Warning: Unexpected Place 5, expected 1
+5 University of Toronto: +28
+6 University of Waterloo: +26
+7 McMaster University: +24
+8 University of Western Ontario: +22
+Event 38 Men 400 SC Meter Freestyle Relay
+1 University of Toronto: +40
+2 University of Western Ontario: +34
+3 University of Toronto: +32
+4 McMaster University: +30
+5 University of Waterloo: +28
+6 University of Waterloo: +26
+7 McMaster University: +24
+8 University of Western Ontario: +22
+{'McMaster University': 1020, 'University of Toronto': 2603, 'University of Western Ontario': 1279, 'University of Waterloo': 1427}

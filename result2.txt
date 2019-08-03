@@ -1,0 +1,41 @@
+Event 1 Women 200 SC Meter Freestyle Relay
+1 University of Toronto: +40
+2 University of Western Ontario: +34
+3 McMaster University: +32
+4 University of Toronto: +30
+5 University of Waterloo: +28
+6 University of Waterloo: +26
+7 McMaster University: +24
+8 University of Western Ontario: +22
+Event 2 Men 200 SC Meter Freestyle Relay
+1 University of Toronto: +40
+2 University of Western Ontario: +34
+3 McMaster University: +32
+4 University of Waterloo: +30
+5 University of Toronto: +28
+6 University of Waterloo: +26
+7 McMaster University: +24
+8 University of Western Ontario: +22
+Event 3 Women 400 SC Meter IM
+1 University of Western Ontario: +20
+2 University of Western Ontario: +17
+3 University of Toronto: +16
+4 University of Toronto: +15
+5 University of Waterloo: +14
+6 University of Toronto: +13
+7 McMaster University: +12
+8 McMaster University: +11
+9 University of Waterloo: +9
+10 University of Waterloo: +7
+11 McMaster University: +6
+12 University of Waterloo: +5
+13 University of Western Ontario: +4
+Event 4 Men 400 SC Meter IM
+2 McMaster University: +17
+3 University of Waterloo: +16
+4 McMaster University: +15
+5 University of Waterloo: +14
+6 University of Toronto: +13
+7 University of Waterloo: +12
+8 University of Western Ontario: +11
+{'McMaster University': 173, 'University of Toronto': 195, 'University of Western Ontario': 164, 'University of Waterloo': 187}
